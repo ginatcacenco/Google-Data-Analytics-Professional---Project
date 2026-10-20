@@ -21,7 +21,8 @@ Note: Calculations for market affordability are based on a standard 50 sqm 2-roo
 | **2025** | €1,837 | +14.67% | 5,536.0 RON | €1,097.7 | 7.3% |
 
 ## 📊 Dashboard Preview
-![Tableau Dashboard Preview](dashboard_preview.png)
+
+![Iași Real Estate Market Dashboard](Iasi%20real%20estate%20market.png)
 
 > 🔗 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/gina.ioana.tcacenco/viz/TheRealEstateMarketinIasi/Iasirealestatemarket)
 
