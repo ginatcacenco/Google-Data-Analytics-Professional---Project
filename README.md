@@ -20,6 +20,13 @@ Note: Calculations for market affordability are based on a standard 50 sqm 2-roo
 | **2024** | €1,602 | +13.78% | 5,196.7 RON | €1,044.6 | 5.6% |
 | **2025** | €1,837 | +14.67% | 5,536.0 RON | €1,097.7 | 7.3% |
 
+## 📊 Dashboard Preview
+![Tableau Dashboard Preview](dashboard_preview.png)
+
+> 🔗 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/gina.ioana.tcacenco/viz/TheRealEstateMarketinIasi/Iasirealestatemarket)
+
+---
+
 * **Upward Trajectory:** Property prices in Iași experienced accelerated growth, jumping from 1,287 €/sqm in 2021 to 1,837 €/sqm by 2025 (a cumulative increase of over 42%).
 * **Wage vs. Real Estate Growth:** While net average monthly wages grew significantly from 3,526.5 RON in 2021 to 5,536 RON in 2025, real estate price spikes (especially in 2024 at +13.78% and 2025 at +14.67%) outpaced general wage growth, impacting housing affordability.
 * **Macroeconomic Pressures:** High inflation peaks in 2022 (13.8%) and 2023 (10.4%) directly influenced construction costs, currency shifts, and pricing adjustments across the local market.
@@ -38,3 +45,4 @@ Note: Calculations for market affordability are based on a standard 50 sqm 2-roo
 * **Earnings & Salaries:** [National Institute of Statistics (INSSE)](https://insse.ro/cms/en/content/earnings-1991-monthly-series)
 * **Inflation Data:** [National Institute of Statistics (INS)](https://insse.ro/cms/en/content/cpi-annual-data-series)
 * **Exchange Rates:** [CursBNR.net](https://cursbnr.net/curs-valutar-EUR.html)
+* **Dataset Excel:** [real-estate-Iasi.xlsx](real-estate-Iasi.xlsx)
