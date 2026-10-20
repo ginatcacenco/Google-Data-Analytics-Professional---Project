@@ -5,7 +5,7 @@ This data analysis project investigates the evolution of residential real estate
 Note: Calculations for market affordability are based on a standard 50 sqm 2-room apartment (the most demanded housing segment in Iași).
 
 * **Author:** Gina Ioana Tcacenco
-* **Interactive Dashboard:** [Tableau Public Profile – Gina Ioana Tcacenco (https://public.tableau.com/app/profile/gina.ioana.tcacenco/viz/TheRealEstateMarketinIasi/Iasirealestatemarket)
+* Interactive Dashboard: [Tableau Public Profile – Gina Ioana Tcacenco (https://public.tableau.com/...)]
 * **GitHub Repository:** [ginatcacenco](https://github.com/ginatcacenco)
 
 ---
