@@ -1,7 +1,8 @@
 # 🏢 Real Estate Market Analysis - Iași (2021–2025)
 
 ## 📊 Project Overview
-This data analysis project investigates the evolution of residential real estate prices in Iași, Romania, from 2021 through 2025. It correlates apartment square-meter prices with key macroeconomic indicators—specifically net average wages, inflation rates, and the EUR/RON exchange rate—to understand market affordability and growth dynamics.
+This data analysis project investigates the evolution of residential real estate prices in Iași, Romania, from 2021 through 2025. It correlates apartment square-meter prices with key macroeconomic indicators—specifically net average wages, inflation rates, and the EUR/RON exchange rate—to understand market affordability and growth dynamics. 
+Note: Calculations for market affordability are based on a standard 50 sqm 2-room apartment (the most demanded housing segment in Iași).
 
 * **Author:** Gina Ioana Tcacenco
 * **Interactive Dashboard:** [Tableau Public Profile – Gina Ioana Tcacenco
